@@ -1,0 +1,116 @@
+body {
+    font-family: 'Lato', sans-serif;
+
+}
+
+
+/*All things top*/
+
+.navbar-dark {
+    background: transparent !important;
+}
+
+.herosection {
+    background: url(../img/slider.png) no-repeat center top;
+    background-size: cover;
+}
+
+.herop{
+    padding:5%;
+}
+
+.heropara{
+    padding-bottom: 100px;
+}
+
+.herotext {
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+
+}
+
+.img-center {
+    display: block;
+    margin: 0 auto;
+}
+
+.herobtn {
+    background-color: #ED145B;
+    color: white;
+    padding: 10px 45px;
+    border-radius: 40px;
+
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    color: white !important;
+    padding: 15px;
+}
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #ed145b!important;
+}
+
+
+/*All things mid*/
+
+
+.moosection{
+    background-color: #F4F4F4;
+}
+
+.moosection h2 {
+    color: #6D6D6D;
+    padding-left: 30%;
+    padding-top: 65px;
+    font-style: italic;
+}
+
+.moosection p {
+        padding-left: 30%;
+        padding-top: 3%;
+        font-weight: 700;
+}
+
+.macbook {
+    max-width: 147%;
+    height: auto;
+    padding-left: 50%;
+    padding-left: 33px;
+    margin-top: 34px;
+}
+
+.servicesection{
+    background-color: white;
+}
+
+.servicesection h2 {
+    padding-left: 0;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.servicesection p {
+    padding-left: 0;
+    text-align: center;
+    font-weight: 600;
+    padding: 2% 30%;
+}
+
+.servicesection img{
+    padding-left: 60px;
+}
+
+.servicesection h3{
+    padding-left: 45px;
+    color: #ED145B;
+    font-style: normal;
+    text-transform: uppercase;
+    font-size: 20px;
+    padding-top: 10px;
+}
+.servicecarousel{
+    padding-left: 0px;
+}
